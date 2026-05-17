@@ -10,9 +10,9 @@ The project helps users understand how popular data structures work internally t
 
 Add your deployed Vercel link here:
 
-```bash
-[https://your-vercel-link.vercel.app](https://algoforge-visualizer.vercel.app/)
-```
+
+https://algoforge-visualizer.vercel.app/
+
 
 ---
 
