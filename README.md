@@ -18,4 +18,4 @@ Interactive DSA visualization platform built using Next.js, TypeScript and custo
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
+[https://your-vercel-link.vercel.app](https://algoforge-visualizer.vercel.app/)
