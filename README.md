@@ -3,7 +3,7 @@
 AlgoForge Visualizer is an interactive Data Structures and Algorithms (DSA) visualization platform built using Next.js, TypeScript, and custom-built data structure implementations.
 
 The project helps users understand how popular data structures work internally through real-time visual animations and operations.
-
+ 
 --- 
  
 ## 🚀 Live Demo
