@@ -4,7 +4,7 @@ AlgoForge Visualizer is an interactive Data Structures and Algorithms (DSA) visu
 
 The project helps users understand how popular data structures work internally through real-time visual animations and operations.
 
----
+--- 
  
 ## 🚀 Live Demo
 
